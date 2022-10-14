@@ -32,7 +32,7 @@ module.exports = {
       "dark-text": "#1a1a1a",
 
       "dark-bg": "#0d0d0d",
-      "light-text": "#4a4a4a",
+      "light-text": "whitesmoke",
 
       gray: {
         900: "#1a1a1a",
