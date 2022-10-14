@@ -26,6 +26,8 @@ module.exports = {
         10: "#f3f7ff",
       },
 
+      transparent: "transparent",
+
       "light-bg": "#f9f7ff",
       "dark-text": "#1a1a1a",
 
